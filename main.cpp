@@ -14,6 +14,8 @@ int main() {
     Gavin me (10,"GBO","Black",50);
     me.speak();
 
+    int x; 
+
 
 
     return 0;
